@@ -1,0 +1,45 @@
+[
+	{
+		"isim": "Kömür Kasa",
+    "açıklama": "ProBot Ekonomi Başlangıç Kasası.",
+		"fiyat": "100",
+    "kasaid": "1"
+	},
+
+	{
+		"isim": "Demir Kasa",
+    "açıklama": "Orta Seviyede Olan Bir Kasa.",
+		"fiyat": "700",
+    "kasaid": "2"
+	},
+
+	{
+		"isim": "Altın Kasa",
+    "açıklama": "Yüksek Seviyede Olan Bir Kasa.",
+		"fiyat": "1500",
+    "kasaid": "3"
+	},
+
+	{
+		"isim": "Elmas Kasa",
+    "açıklama": "Üst Düzeyde Olan Bir Kasa.",
+		"fiyat": "2500",
+    "kasaid": "4"
+	},
+
+	{
+		"isim": "Zümrüt Kasa",
+    "açıklama": "Efsanevi Düzeyde Olan Bir Kasa.",
+		"fiyat": "3500",
+    "kasaid": "5"
+	},
+
+	{
+	"isim": "ProBot Kasa",
+    "açıklama": "ProBot Ekonomi Özel Kasa.",
+		"fiyat": "50000",
+    "kasaid": "6"
+	}
+
+
+]
